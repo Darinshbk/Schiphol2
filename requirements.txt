@@ -5,7 +5,6 @@ matplotlib
 seaborn
 streamlit
 folium
-folium.plugins
 streamlit_folium
 branca
 jinja2
